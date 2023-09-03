@@ -1,0 +1,25 @@
+git clone git@github.com:Aki78/AssignmentTask01VersionControlandUPMpackages.git
+
+vim .gitignore
+
+touch ignoreme.txt
+
+git add .
+
+git push
+
+git tag v0.2
+
+git checkout -b newbranch
+
+git push --set-upstream origin newbranch
+
+git checkout main
+
+git push origin v0.1
+
+git submodule add git@github.com:Aki78/GodotCPUDesign.git
+
+git fetch
+
+git merge1
