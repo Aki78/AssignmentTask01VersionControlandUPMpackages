@@ -22,4 +22,4 @@ git submodule add git@github.com:Aki78/GodotCPUDesign.git
 
 git fetch
 
-git merge1
+git merge
